@@ -1,0 +1,5 @@
+{
+  "name": "GourmetGenieByGosia",
+  "description": "An AI-powered recipe explorer that generates high-quality cooking instructions and nutritional insights using Gemini.",
+  "requestFramePermissions": []
+}
